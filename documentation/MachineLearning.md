@@ -1,12 +1,13 @@
 # Machine Learning
 
-- Business Problem
-- Source Data
-- Dataset Splitting
-- Evaluation Metric
-- Feature Extraction
-- Model Training
-- Feature Selection
-- Model Selection
-- Production System
+1. Business Problem
+2. Source Data
+3. Dataset Splitting
+4. Evaluation Metric
+5. Feature Extraction
+6. Model Training
+7. Feature Selection
+8. Model Selection
+9. Production System
+
 
