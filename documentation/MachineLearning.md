@@ -10,6 +10,9 @@
 8. Model Selection
 9. Production System
 
+## scikit-learn
+
+> Machine Learning in Python
 
 - [](http://scikit-learn.org/stable/)
 
