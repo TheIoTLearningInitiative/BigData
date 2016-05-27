@@ -14,6 +14,6 @@
 
 > Machine Learning in Python
 
-- [SciKit-LearnHomepage](http://scikit-learn.org/stable/)
+- [SciKit-Learn Homepage](http://scikit-learn.org/stable/)
 
 ## Hyphothetical Case Study
