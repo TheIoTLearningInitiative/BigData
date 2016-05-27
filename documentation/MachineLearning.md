@@ -11,4 +11,4 @@
 9. Production System
 
 
-## Pyphothetical Case Study
+## Hyphothetical Case Study
