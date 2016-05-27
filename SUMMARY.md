@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](documentation/Introduction.md)
-* Strata
+* [Strata](documentation/documentation/Strata.md)
 
