@@ -10,6 +10,8 @@
 8. Model Selection
 9. Production System
 
+who works on ML? Data Scientist
+
 ## scikit-learn
 
 > Machine Learning in Python
