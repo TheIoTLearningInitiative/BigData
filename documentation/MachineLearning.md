@@ -23,3 +23,7 @@ who works on ML? Data Scientist
 ## Nvidia
 
 http://linkis.com/www.wired.co.uk/news/Ar3UK
+
+## Google
+
+http://linkis.com/www.wired.co.uk/news/Ar3UK
