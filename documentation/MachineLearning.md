@@ -19,3 +19,7 @@ who works on ML? Data Scientist
 - [SciKit-Learn Homepage](http://scikit-learn.org/stable/)
 
 ## Hyphothetical Case Study
+
+## Nvidia
+
+http://linkis.com/www.wired.co.uk/news/Ar3UK
