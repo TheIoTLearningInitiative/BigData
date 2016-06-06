@@ -12,6 +12,8 @@
 
 who works on ML? Data Scientist
 
+- [](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+
 ## scikit-learn
 
 > Machine Learning in Python
