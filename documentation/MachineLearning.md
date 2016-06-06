@@ -12,7 +12,7 @@
 
 who works on ML? Data Scientist
 
-- [](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+- [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 
 ## scikit-learn
 
