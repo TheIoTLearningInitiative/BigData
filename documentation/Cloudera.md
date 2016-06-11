@@ -4,3 +4,7 @@
 
 - [Cloudera Training](http://www.cloudera.com/training/courses.html)
 
+- Developer
+- Admin
+- Analyst
+
