@@ -7,4 +7,5 @@
 * Streaming Analytics
 * [Apache Hadoop](documentation/ApacheHadoop.md)
 * [Sandbox](documentation/Sandbox.md)
+* Cloudera
 
