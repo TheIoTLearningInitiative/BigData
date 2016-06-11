@@ -6,6 +6,6 @@
 * [Machine Learning](documentation/MachineLearning.md)
 * Streaming Analytics
 * [Apache Hadoop](documentation/ApacheHadoop.md)
-* [Sandbox](documentation/Sandbox.md)
 * [Cloudera](documentation/Cloudera.md)
+* [Sandbox](documentation/Sandbox.md)
 
