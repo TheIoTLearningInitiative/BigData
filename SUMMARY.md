@@ -8,4 +8,5 @@
 * [Apache Hadoop](documentation/ApacheHadoop.md)
 * [Cloudera](documentation/Cloudera.md)
 * [Sandbox](documentation/Sandbox.md)
+* ER/Studio Data Architect
 
