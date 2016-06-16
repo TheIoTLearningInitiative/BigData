@@ -12,3 +12,7 @@ http://caffe.berkeleyvision.org/
 - SAP HANA* 
 - SAS* 
 - Trusted Analytics Platform (TAP
+
+## Intel 
+
+https://software.intel.com/en-us/intel-daal
