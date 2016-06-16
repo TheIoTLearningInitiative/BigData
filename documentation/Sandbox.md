@@ -15,4 +15,6 @@ http://caffe.berkeleyvision.org/
 
 ## Intel 
 
-https://software.intel.com/en-us/intel-daal
+Trusted Analytics Platform (TAP
+
+- https://software.intel.com/en-us/intel-daal
