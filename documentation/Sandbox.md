@@ -11,7 +11,7 @@ http://caffe.berkeleyvision.org/
 - Oracle Exadata* 
 - SAP HANA* 
 - SAS* 
-- Trusted Analytics Platform (TAP
+- Trusted Analytics Platform (TAP)
 
 ## Intel 
 
